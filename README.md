@@ -21,5 +21,6 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 ```
 
 
-[and then add this to ur zshrc config]
+# and then add this to ur zshrc config
+
 plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
