@@ -1,7 +1,7 @@
 # custom terminal zsh shell 
 
 
-# copy this
+### copy this
 
 # oh-my-zsh
 ```
